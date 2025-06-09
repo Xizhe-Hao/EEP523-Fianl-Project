@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nutritional Journal</string>
+    <string name="calories_value">%1$.0f cal</string>
+    <string name="calories_value_short">%1$d cal</string>
+    <string name="protein_value">%1$.1fg</string>
+    <string name="carbs_value">%1$.1fg</string>
+    <string name="fat_value">%1$.1fg</string>
+    <string name="location_coordinates">Lat: %1$.4f, Lng: %2$.4f</string>
+    <string name="meal_saved">Meal saved successfully</string>
+    <string name="error_meal_name_required">Please enter a meal name</string>
+    <string name="error_nutritional_info_required">Nutritional information is required</string>
+    <string name="location_permission_denied">Location permission denied</string>
+</resources>

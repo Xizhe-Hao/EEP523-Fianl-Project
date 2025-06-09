@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_fragment_map.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_activity_camera.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_activity_meal_details.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/activity_meal_details.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_activity_splash.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/drawable_placeholder_meal.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/drawable/placeholder_meal.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_item_meal.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/drawable_circle_button_background.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/drawable/circle_button_background.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_fragment_journal.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/fragment_journal.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_activity_main.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/navigation_nav_graph.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_fragment_home.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/drawable_map_placeholder.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/drawable/map_placeholder.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/drawable_map_marker.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/drawable/map_marker.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/layout_item_journal_meal.xml.flat",
+        "source": "com.nutritionaljournal.app-main-71:/layout/item_journal_meal.xml"
+    },
+    {
+        "merged": "com.nutritionaljournal.app-merged_res-69:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nutritionaljournal.app-main-71:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
